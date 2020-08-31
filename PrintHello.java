@@ -2,8 +2,5 @@ public class PrintHello
 {
 	public static void main(String [] args)
 	{
-		System.out.println("Hello, World!");
-		System.out.println("Hello, Danica");
-		System.out.println("Hell0, Dianne");
-	}
-}
+		System.out.println("Hello, World! This is my first repository sample!");
+		
